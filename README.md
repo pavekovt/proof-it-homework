@@ -2,7 +2,6 @@
 
 ## Prerequisites
 * Java 11+
-* Gradle
 
 ## Comments
 
